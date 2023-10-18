@@ -1,0 +1,75 @@
+Timestamps:
+0:00 Intro
+1:37 About the lecture
+3:57 Terminal Emulator
+6:24 What is Shell
+8:58 List commands
+11:04 ls
+12:24 mkdir
+12:54 cd
+14:45 Environment variables
+17:37 Path Environment variable
+19:41 Bash files
+23:10 zprofile
+23:57 Where are Environment Variable stored
+27:33 pwd
+27:46 ls
+29:48 cd
+31:41 ls -R
+33:00 cat
+37:12 man
+37:53 tr
+40:28 mkdir
+42:42 touch
+43:33 cp
+45:13 mv
+47:23 rm
+48:24 cp -R
+49:12 Renaming a file
+49:55 Deleting a directory
+50:40 sudo
+51:58 df
+54:48 head
+56:20 tail
+56:47 diff
+57:41 locate
+58:26 find
+1:04:56 File permissions
+1:05:57 Changing file permissions
+1:09:21 chown
+1:11:39 Performing an action on multiple files
+1:13:32 grep
+1:20:24 history
+1:21:36 regex
+1:22:00 regex commands
+1:23:09 alias command
+1:25:20 Terminal shortcuts
+1:30:23 wget
+1:33:29 top
+1:35:18 uname
+1:35:50 zip
+1:36:17 unzip
+1:37:08 hostname
+1:37:53 useradd
+1:38:34 userdel
+1:39:04 Operating system commands
+1:39:10 uname
+1:39:33 Operating system information
+1:39:48 lscpu
+1:40:17 free
+1:40:40 vmstat
+1:41:08 id
+1:42:00 getent
+1:42:45 id User
+1:43:00 lsof
+1:44:00 Networking commands
+1:44:05 nslookup
+1:44:51 netstat
+1:45:14 sed
+1:45:30 cut
+1:47:44 htop
+1:48:10 ps aux
+1:48:31 Working with operators
+1:54:10 Outro 
+
+#linux #terminal #commandline
